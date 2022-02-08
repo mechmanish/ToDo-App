@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.app {
+  text-align: center;
+  /* border: 2px solid pink; */
+    /* box-sizing: border-box; */
+  width: 64rem;
+  margin: 5rem auto;
+}
+
+.appName{
+  font-size: 2rem;
+  background: rgba(221, 197, 90, 0.384);
+  margin-bottom: 2rem;
+}
+

@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.inputArea{
+    /* border: 1px solid black; */
+    height: 3rem;
+    display: flex;
+}
+
+.inputBox{
+    border: 1px solid rgb(98 207 251 / 75%);
+    border-radius: 5px;
+    height: 100%;
+    width: 70%;
+    padding-left: 1rem;
+    font-size: 1.5rem;
+}
+
+.addBtn{
+    border: none;
+    height: 100%;
+    width: 28%;
+    margin-left: 1rem;
+    background: rgb(98 207 251 / 75%);
+    border-radius: 7px;
+    font-size: 2rem;
+    color: white;
+}
